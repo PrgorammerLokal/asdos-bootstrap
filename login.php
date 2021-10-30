@@ -41,6 +41,7 @@
             </div>
         </div>
     </nav>
+    <div class="b-example-divider"></div>
     <!-- end navbar -->
 
     <!-- halaman content -->
@@ -92,6 +93,7 @@
             </ul>
         </footer>
     </div>
+    <div class="b-example-divider"></div>
     <!-- end footer -->
     <!-- untuk js -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
