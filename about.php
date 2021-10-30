@@ -11,12 +11,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
     <!-- css footer -->
     <link rel="stylesheet" href="bootstrap/footers.css">
+    <!-- css footer -->
+    <link rel="stylesheet" href="bootstrap/footers.css">
     <title>Product</title>
 </head>
 
 <body>
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
         <div class="container">
             <a class="navbar-brand" href="index.php">Bootstrap</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,6 +43,7 @@
             </div>
         </div>
     </nav>
+    <div class="b-example-divider"></div>
     <!-- end navbar -->
 
     <!-- halaman content -->
@@ -123,6 +126,7 @@
             </ul>
         </footer>
     </div>
+    <div class="b-example-divider"></div>
     <!-- end footer -->
     <!-- untuk js -->
     <script src="bootstrap/js/bootstrap.min.js"></script>

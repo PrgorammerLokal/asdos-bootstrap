@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
     <!-- css footer -->
     <link rel="stylesheet" href="bootstrap/footers.css">
+    <!-- css footer -->
+    <link rel="stylesheet" href="bootstrap/footers.css">
     <title>Product</title>
 </head>
 
@@ -41,6 +43,7 @@
             </div>
         </div>
     </nav>
+    <div class="b-example-divider"></div>
     <!-- end navbar -->
 
     <!-- halaman content -->
@@ -126,6 +129,7 @@
             </ul>
         </footer>
     </div>
+    <div class="b-example-divider"></div>
     <!-- end footer -->
     <!-- untuk js -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
